@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Julien!  
 
 👨‍💻 Je suis actuellement étudiant ingénieur informatique à Polytech Lyon  
-🌱 Je suis actuellement en train d'apprendre python  
+🌱 Je suis actuellement en train d'apprendre l'assembleur  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 
 ### Languages  
