@@ -1,5 +1,5 @@
 # 👋 Bonjour !
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=%C3%89tudiant;Passionn%C3%A9;Futur+D%C3%A9veloppeur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Engineering+Student;Future+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 
 👨‍💻 Je suis actuellement étudiant ingénieur informatique à Polytech Lyon  
