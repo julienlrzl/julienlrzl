@@ -6,6 +6,10 @@
 🌱 Je suis actuellement en train d'apprendre l'assembleur  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 
+### Curriculum Vitae
+
+[Consultez mon CV](https://github.com/julienlrzl/julienlrzl/blob/main/CV_JULIEN.pdf)
+
 ### Langages  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
