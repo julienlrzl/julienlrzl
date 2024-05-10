@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Engineering+Student;Future+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 
-👨‍💻 Je suis actuellement étudiant ingénieur informatique à Polytech Lyon  
+👨‍💻 Je suis actuellement étudiant ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)   
 🌱 Je suis actuellement en train d'apprendre l'assembleur  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio (Coding ...) : https://www.larzuljulien.com
