@@ -5,7 +5,7 @@
 
 
 👨‍💻 Je suis actuellement étudiant ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)   
-🏢 Actuellement en stage chez Lizeo à Lyon  
+🏢 Actuellement en stage chez [Lizeo](https://www.lizeo-group.com) à Lyon  
 🌱 Actuellement en train d’apprendre la bibliothèque Python TensorFlow pour l’embedding d’images  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio : https://www.larzuljulien.com
