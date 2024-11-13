@@ -8,7 +8,8 @@
 🏢 Actuellement en stage chez [Lizeo](https://www.lizeo-group.com) à Lyon  
 🌱 Actuellement en train d’apprendre la bibliothèque Python TensorFlow pour l’embedding d’images  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
-💿 Mon Portfolio : https://www.larzuljulien.com
+💿 Mon Portfolio : https://www.larzuljulien.com  
+🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)
 
 ### Curriculum Vitae
 
