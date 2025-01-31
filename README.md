@@ -4,8 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Engineering+Student;Future+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 
-👨‍💻 Je suis actuellement étudiant ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)   
-🏢 Actuellement en stage chez [Lizeo](https://www.lizeo-group.com) à Lyon  
+👨‍💻 Je suis actuellement étudiant ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)     
 🌱 Actuellement en train d’apprendre la bibliothèque Python TensorFlow pour l’embedding d’images  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio : https://www.larzuljulien.com  
