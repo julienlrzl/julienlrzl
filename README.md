@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Engineering+Student;Future+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 
-👨‍💻 Je suis actuellement étudiant ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)     
-🌱 Actuellement en train d’apprendre la bibliothèque Python TensorFlow pour l’embedding d’images  
+👨‍💻 Je poursuis actuellement un double diplôme en cybersécurité à l'[UQAC](https://www.uqac.ca), en parallèle de mon cursus d’ingénieur informatique à [Polytech Lyon](https://polytech.univ-lyon1.fr)  
+🌱 Actuellement en train d’apprendre les fondamentaux de l’analyse forensique et des protocoles réseau en cybersécurité
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio : https://www.larzuljulien.com  
 🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)
