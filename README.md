@@ -14,10 +14,6 @@
 
 [Consultez mon CV](https://github.com/julienlrzl/julienlrzl/blob/main/CV_JULIEN.pdf)
 
-### TryHackMe
-
-![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/thm_propic.png?raw=true)
-
 ### Langages  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -38,7 +34,7 @@
 
 ---
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=julienlrzl&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)  
+### TryHackMe
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienlrzl&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&include_all_commits=true)
+![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/thm_propic.png?raw=true)
 
