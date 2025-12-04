@@ -14,6 +14,10 @@
 
 [Consultez mon CV](https://github.com/julienlrzl/julienlrzl/blob/main/CV_JULIEN.pdf)
 
+### TryHackMe
+
+![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/tryhackme_badge.png)
+
 ### Langages  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
