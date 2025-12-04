@@ -16,7 +16,7 @@
 
 ### TryHackMe
 
-![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/tryhackme_badge.png)
+![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/thm_propic.png)
 
 ### Langages  
 
