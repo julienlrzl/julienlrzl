@@ -2,12 +2,13 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # Tous les jours à minuit
   workflow_dispatch:
 
 jobs:
   tryhackme-badge-update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
         with:
@@ -16,4 +17,19 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "julienlrzl"
+          GITHUB_TOKEN: ${{ secrets.PAT_THM }}
+
+      # ➤ Étape ajoutée : forcer une modification pour toujours déclencher un commit
+      - name: Force commit
+        run: |
+          echo "Last update: $(date)" > .github/last_update.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions"
+          git add -A
+          git commit -m "Force update $(date)" || echo "Nothing to commit"
+          git push
+        env:
           GITHUB_TOKEN: ${{ secrets.PAT_THM }}
