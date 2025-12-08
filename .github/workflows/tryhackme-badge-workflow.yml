@@ -14,13 +14,18 @@ jobs:
         with:
           token: ${{ secrets.PAT_THM }}
 
-      # ⭐ Étape ajoutée : supprimer l’image existante pour forcer un changement
-      - name: Remove old badge
-        run: |
-          rm -f ./assets/thm_propic.png
-
-      # Workflow TryHackMe original
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "julienlrzl"
+          GITHUB_TOKEN: ${{ secrets.PAT_THM }}
+
+      # ⭐ Étape ajoutée : commit forcé
+      - name: Force commit even if no changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions"
+          git add -A
+          git commit --allow-empty -m "Forced update: $(date)"
+          git push
+        env:
           GITHUB_TOKEN: ${{ secrets.PAT_THM }}
