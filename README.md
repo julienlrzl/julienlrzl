@@ -1,11 +1,11 @@
 # 👋 Bonjour !
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Engineering+Student;Future+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Cybersecurity+Student;Future+SOC+Analyst;Continuous+Learner;Blue+Team+Enthusiast)](https://git.io/typing-svg)
 
 👨‍💻 Je poursuis actuellement un double diplôme en cybersécurité à l'[UQAC](https://www.uqac.ca), en parallèle de mon cursus d’ingénieur informatique à [Polytech](https://polytech.univ-lyon1.fr)  
-🌱 Actuellement en train d’apprendre les fondamentaux de l’analyse forensique et des protocoles réseau en cybersécurité  
+🌱 Actuellement en formation sur : analyse forensique Android, protocoles réseau, et détection d’intrusion (Suricata)  
+💼 Recherche : **Stage cybersécurité – Juillet 2026 (6 mois)**  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio : https://www.larzuljulien.com  
 🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)
@@ -13,6 +13,20 @@
 ### Curriculum Vitae
 
 [Consultez mon CV](https://github.com/julienlrzl/julienlrzl/blob/main/CV_JULIEN.pdf)
+
+### Compétences Cyber   
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Suricata](https://img.shields.io/badge/Suricata-FF5A5F?style=for-the-badge&logo=suricata&logoColor=white) 
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Command_Line-000000?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-1A1A1A?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+
 
 ### Langages  
 
