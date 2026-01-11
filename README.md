@@ -24,7 +24,6 @@
 ![ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Command_Line-000000?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-1A1A1A?style=for-the-badge&logo=tryhackme&logoColor=red)
 
 
 
@@ -51,7 +50,7 @@
 ### Cybersecurity Platforms
 
 <p>
-  <a href="https://tryhackme.com/p/julienlrzl style="text-decoration:none;">
+  <a href="https://tryhackme.com/p/julienlrzl" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   </a>
   &nbsp;
