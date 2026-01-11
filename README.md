@@ -8,11 +8,8 @@
 💼 Recherche : **Stage cybersécurité – Juillet 2026 (6 mois)**  
 📫 Comment me joindre : julien.larzul@etu.univ-lyon1.fr  
 💿 Mon Portfolio : https://www.larzuljulien.com  
-🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)
-
-### Curriculum Vitae
-
-[Consultez mon CV](https://github.com/julienlrzl/julienlrzl/blob/main/CV_JULIEN.pdf)
+🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)  
+📄 Curriculum vitae disponible sur demande
 
 ### Compétences Cyber   
 
