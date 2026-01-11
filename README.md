@@ -48,7 +48,16 @@
 
 ---
 
-### TryHackMe
+### Cybersecurity Platforms
 
-![TryHackMe Badge](https://raw.githubusercontent.com/julienlrzl/julienlrzl/main/assets/thm_propic.png?raw=true)
+<p>
+  <a href="https://tryhackme.com/p/julienlrzl style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.root-me.org/julien_lrzl?lang=fr style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+</p>
 
+<p><i>Each badge links directly to my public profile.</i></p>
