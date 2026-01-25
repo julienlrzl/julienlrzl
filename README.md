@@ -56,4 +56,6 @@
   </a>
 </p>
 
-<p><i>Each badge links directly to my public profile.</i></p>
+<p><i>Each badge links directly to my public profile.</i></p>  
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
