@@ -46,16 +46,17 @@
 
 ### Cybersecurity Platforms
 
+
+<img width="15%" align="right" alt="RootMe" src="polytech_logo.svg" />
+
 <p>
   <a href="https://tryhackme.com/p/julienlrzl" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.root-me.org/julien_lrzl?lang=fr style="text-decoration:none;">
+  <a href="https://www.root-me.org/julien_lrzl?lang=fr" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
   </a>
 </p>
 
-<p><i>Each badge links directly to my public profile.</i></p>  
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p><i>Each badge links directly to my public profile.</i></p>
