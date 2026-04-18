@@ -5,7 +5,7 @@
 
 👨‍💻 Je poursuis actuellement un double diplôme en cybersécurité à l'[UQAC](https://www.uqac.ca), en parallèle de mon cursus d’ingénieur informatique à [Polytech](https://polytech.univ-lyon1.fr)  
 🌱 Actuellement en formation sur : analyse forensique Android, protocoles réseau, et détection d’intrusion (Suricata)  
-💼 Recherche : **Stage cybersécurité – Juillet 2026 (6 mois)**  
+💼 Stage : SOC Analyst & AI Security – BPCE-IT · Août 2026  
 📫 Comment me joindre : inbox.boxx+github.request@proton.me  
 💿 Mon Portfolio : https://www.larzuljulien.com  
 🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)  
