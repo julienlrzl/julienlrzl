@@ -1,62 +1,104 @@
-# 👋 Bonjour !
+<div align="center">
 
+# Hi, I'm Julien 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Cybersecurity+Student;Future+SOC+Analyst;Continuous+Learner;Blue+Team+Enthusiast)](https://git.io/typing-svg)
-
-👨‍💻 Je poursuis actuellement un double diplôme en cybersécurité à l'[UQAC](https://www.uqac.ca), en parallèle de mon cursus d’ingénieur informatique à [Polytech](https://polytech.univ-lyon1.fr)  
-🌱 Actuellement en formation sur : analyse forensique Android, protocoles réseau, et détection d’intrusion (Suricata)  
-💼 Stage : SOC Analyst & AI Security – BPCE-IT · Août 2026  
-📫 Comment me joindre : inbox.boxx+github.request@proton.me  
-💿 Mon Portfolio : https://www.larzuljulien.com  
-🔗 Mon LinkedIn : [linkedin.com/in/julien-larzul](https://www.linkedin.com/in/julien-larzul-5a02132b5/)  
-📄 Curriculum vitae disponible sur demande
-
-### Compétences Cyber   
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Suricata](https://img.shields.io/badge/Suricata-FF5A5F?style=for-the-badge&logo=suricata&logoColor=white) 
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Command_Line-000000?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
-
-### Langages  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-
-### Outils  
-
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### Cybersecurity Platforms
-
-
-<img width="15%" align="right" alt="RootMe" src="polytech_logo.svg" />
-
-<p>
-  <a href="https://tryhackme.com/p/julienlrzl" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.root-me.org/julien_lrzl?lang=fr" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=635DF7&center=true&lines=Cybersecurity+Student;SOC+Analyst+%40+BPCE-IT;AI+%26+Automation+in+Cybersecurity;CTF+Player+%7C+J'HACK+Daniel" />
   </a>
 </p>
 
-<p><i>Each badge links directly to my public profile.</i></p>
+</div>
+
+👨‍💻 5th-year Computer Engineering student @ [Polytech Lyon](https://polytech.univ-lyon1.fr), double degree in Cybersecurity @ [UQAC](https://www.uqac.ca)  
+💼 Incoming SOC Analyst N2 & AI Security @ BPCE-IT · Toulouse · Aug 2026  
+🏠 Building a homelab: Proxmox · OPNsense · WireGuard · Elastic Stack  
+📄 CV available on request
+
+<p align="center">
+  <a href="mailto:inbox.boxx+github.request@proton.me">inbox.boxx@proton.me</a> &nbsp;·&nbsp;
+  <a href="https://www.larzuljulien.com">www.larzuljulien.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/julien-larzul-5a02132b5/">linkedin.com/in/julien-larzul</a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+```bash
+🏆 CTF Results — Team J'HACK Daniel
+
+[13th] NorthSec CTF Montréal          May 2026  · 1st student team · CA$1,000
+[1st]  CTF UQAC × Desjardins          Apr 2026  · CA$800
+[48th] THCon CTF (France, remote)     Apr 2026  · 594 teams
+[2nd]  Mastercard Canada CTF          Feb 2026  · CA$200
+[1st]  CTF UQAC                       Nov 2025
+```
+
+<br>
+
+---
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%5B+Cybersecurity+%5D" alt="Cybersecurity"/>
+</p>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exegol-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br/>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,kibana,proxmox&theme=dark&perline=5&titles=true"/>
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%5B+Languages+%5D" alt="Languages"/>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,js&theme=dark&perline=7"/>
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%5B+Tools+%5D" alt="Tools"/>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,linux,react,aws&theme=dark&perline=8"/>
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%5B+Platforms+%5D" alt="Platforms"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=400&height=20&lines=TryHackMe+-+Top+3%25+%7C+Root-Me+-+550+pts" alt="stats"/>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/julienlrzl">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.root-me.org/julien_lrzl?lang=fr">
+    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
+</p>
+
+<br>
