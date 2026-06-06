@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=635DF7&center=true&lines=Cybersecurity+Student;SOC+Analyst+%40+BPCE-IT;AI+%26+Automation+in+Cybersecurity;CTF+Player+%7C+J'HACK+Daniel" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=635DF7&center=true&lines=Cybersecurity+Student;SOC+Analyst+at+BPCE-IT;AI+%26+Automation+in+Cybersecurity;CTF+Player+%7C+J'HACK+Daniel" />
   </a>
 </p>
 
