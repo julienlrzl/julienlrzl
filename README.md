@@ -102,3 +102,6 @@
 </p>
 
 <br>
+
+---
+<p align="center"><sub>Open to opportunities · Feel free to reach out</sub></p>
