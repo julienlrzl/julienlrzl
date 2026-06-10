@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=%5B+Platforms+%5D" alt="Platforms"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=400&height=20&lines=TryHackMe+-+Top+3%25+%7C+Root-Me+-+550+pts" alt="stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=666666&center=true&vCenter=true&width=400&height=20&lines=TryHackMe+-+Top+2%25+%7C+Root-Me+-+550+pts" alt="stats"/>
 </p>
 
 <p align="center">
