@@ -11,7 +11,7 @@
 </div>
 
 👨‍💻 5th-year Computer Engineering student [Polytech Lyon](https://polytech.univ-lyon1.fr), double degree in Cybersecurity [UQAC](https://www.uqac.ca)  
-💼 Incoming SOC Analyst N2 & AI Security BPCE-IT · Toulouse · Aug 2026  
+💼 SOC Analyst N2 & AI Security BPCE-IT · Toulouse
 🏠 Building a homelab: Proxmox · OPNsense · WireGuard · Elastic Stack  
 📄 CV available on request
 
