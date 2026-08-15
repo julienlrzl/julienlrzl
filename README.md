@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Exegol-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trellix-000000?style=for-the-badge&logoColor=white"/>
   <br/>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,kibana,proxmox&theme=dark&perline=5&titles=true"/>
